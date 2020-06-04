@@ -1,7 +1,7 @@
 {
   "name": "spaces-adapter",
   "description": "JavaScript adapter for the Adobe Photoshop Spaces plugin",
-  "version":1.0.0,
+  "version":"1.0.0",
   "scripts": {
     "test": "grunt test"
   },
